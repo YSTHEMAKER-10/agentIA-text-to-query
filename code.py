@@ -1,0 +1,1 @@
+print("INITIALISATION DE L'AGENT")
