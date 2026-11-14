@@ -1,4 +1,5 @@
 # agentIA-text-to-query
 
-ceci est un projet visant à apprendre le domaine de l'intelligence artificiel
+le projet consiste à créer un système équiper d'un agant IA charger de faciliter la recherche dans notre base de donner .
+
 
