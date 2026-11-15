@@ -1,6 +1,7 @@
 # agentIA-text-to-query
 
-le projet consiste à créer un système équiper d'un agant IA charger de faciliter la recherche dans notre base de donner .
+le projet consiste à créer un système équiper d'un agant IA charger de faciliter la recherche dans notre base de donner . En claire conception d'une application capable de demander à un LLM de générer automatiquement les  requêtes mongoDB
+a partir des questions formulées en language naturels  par les  utilisateurs .
 
 
 ---
